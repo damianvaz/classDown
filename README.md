@@ -29,14 +29,14 @@ Download python 3.8 from the mycrosoft store:
 ## Linux
 ### Debian Systems
 in the terminal type: 
-'sudo apt install python3.8'
+`sudo apt install python3.8`
 ### CentOS
-'sudo yum install python3.8'
+`sudo yum install python3.8`
 ### Fedora
-'sudo dnf install python3.8'
+`sudo dnf install python3.8`
 ### FreeBSD
-'sudo make install python3.8'
+`sudo make install python3.8`
 or
-'sudo pkg install python3.8'
+`sudo pkg install python3.8`
 
 
