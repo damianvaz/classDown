@@ -1,4 +1,4 @@
-#Motivation
+# Motivation
 
 With the 2020 global pandemic we now have to take our classes online, which is ok, depending on how is your setup at home.
 But the coolest part about it, is that if the professor wants it, he can record the class and people that couldn't attend, can watch it.
@@ -16,25 +16,25 @@ in a video player with control speed (VLC player is super cool!), so he manages 
 This is that tool. With it you only need to know the passwords to his websites, and you can save your precious time!
 You're welcome! if you find it useful, you now owe me a coffee ;)
 
-#Instalation
+# Instalation
 
 First you should have Python 3.8 or greater installed:
 
-##Windows
+## Windows
 
 Download python 3.8 from the mycrosoft store:
 
 [Python 3.8 for Windows!](https://www.microsoft.com/pt-br/p/python-38/9mssztt1n39l)
 
-##Linux
+## Linux
 ### Debian Systems
 in the terminal type: 
 'sudo apt install python3.8'
-###CentOS
+### CentOS
 'sudo yum install python3.8'
-###Fedora
+### Fedora
 'sudo dnf install python3.8'
-###FreeBSD
+### FreeBSD
 'sudo make install python3.8'
 or
 'sudo pkg install python3.8'
