@@ -36,6 +36,7 @@ Now just run `python classDown.py`
 Here we have a couple options. You can use conda, or just python 3.8 or higher
 But first let's install git if you don't already have it:
 Enter on the terminal `sudo apt install git`
+
 Now Download the files of this repository by entering `git clone https://github.com/damianvaz/classDown.git`
 
 #### Miniconda route
