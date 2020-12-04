@@ -87,7 +87,7 @@ You can use this tool to download the videos directly to your Android phone with
 
 [Download Termux from Google play](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
-Open Termux and enter `termux-setup-storage` and allow it to access your device storage
+Open Termux and enter `termux-setup-storage` and allow it to access your device's storage
 
 Now enter these commands in order:
 
