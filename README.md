@@ -19,7 +19,8 @@ The easiest way to install this tool is by using Conda
 [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 Once you install it, you should be able to launch a Anaconda poweshell from the Windows menu. Enter on the terminal these commands in order
-
+    
+    conda install -c anaconda git
     git clone https://github.com/damianvaz/classDown.git
     cd classDown
     conda env create -f environment.yml
