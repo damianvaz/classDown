@@ -1,21 +1,15 @@
 # Motivation
 
-With the 2020 global pandemic we now have to take our classes online, which depending on your setup at home, is fine.
-But the coolest part about it, is that if the professor so desires, he can record the class and people that couldn't attend, can watch it later on.
 
-But imagine this scenario: Student A misses class, and so he goes to the Professor's website to watch it. 
-There he manages to watch the class in a browser, however he can't download it, and even worse he has to watch it at 1x speed as the professor PAINFULLY and slowly reads from a slide, that he may or may not, have wrote it.
+With the 2020 global pandemic we now have to take our classes online, which depending on your setup at home, is fine. But the coolest part about it, is that if the professor so desires, he can record the class and people that couldn't attend, can watch it later on.
+Imagine this scenario: Student A misses a class, which is unfortunate, but thankfully they aren't out of luck. They head to their professor's website where, fortunately, their professor uploaded a video of the lecture. Unfortunate for them though, they are forced to watch it in browser. They also can't download the video and are forced to watch it at 1x speed. This makes it tough for someone who might be trying to find the couple of slides they missed without watching the entire lecture back.
 
-So what's student A to do? Suffer through the endless class at normal speed? Nope! 
-The class is already recorded, so there's no reason for that other than *~professor doesn't feel like uploading standard video files~* (Or maybe he doesn't want to put a strain on his server, making people have to Download the entire video, and maybe just watch a couple minutes of it. If that's the case, I sure made the server work a lot during the writing of this tool. Whooooops ¯\\_(ツ)_/¯) 
+So what's student A to do? Suffer through the endless class at normal speed? Nope! The class is already recorded, so there's no reason for that other *~than professor doesn't feel like uploading standard video files~* (Or maybe he doesn't want to put a strain on his server, making people have to Download the entire video, and maybe just watch a couple minutes of it. If that's the case, I sure made the server work a lot during the writing of this tool. Whooooops ¯\(ツ)/¯)
 
-So student A, creates a tool that downloads all the files, and converts it into a standard .mp4 file, that he can watch it in a video player with control speed (VLC player is super cool!), so he manages to watch it all up to 4x faster!
+Student A could just use a tool that downloads all the files, and converts it into a standard .mp4 file. This way they are able to use a video player with speed control (I recommend my personal favorite; VLC Player for up to 4x speed)
 
-This is that tool. With it you only need to know the passwords to his websites, and you can save your precious time!
-You're welcome! And if you find it useful, next time we meet, coffee is on you ;)
-
-# Instalation
-
+This is that tool. With it you only need to know the passwords to their Professor's websites. It'll save you precious time! You're welcome! And if you find it useful, next time we meet, coffee is on you ;)
+# Installation 
 ## Windows
 
 The easiest way to install this tool is by using Conda
