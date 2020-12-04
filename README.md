@@ -76,7 +76,7 @@ Now install ffmpeg:
 now just run the script:
 
 `python3 classDown.py`
--
+
 or if you only have one version of python installed:
 
 `python classDown.py`
