@@ -51,9 +51,12 @@ Run the installer:
 
 `bash Miniconda3-latest-Linux-x86_64.sh`
 
-Now let's make the new environment for the tool with
-`cd classDown`
-`conda env create -f environment.yml`
+Now run these commands in order
+
+    cd classDown
+    conda env create -f environment.yml
+    conda activate classDown
+
 
 and run the script ´python classDown.py´
 
