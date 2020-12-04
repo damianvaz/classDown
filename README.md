@@ -9,7 +9,8 @@ So what's student A to do? Suffer through the endless class at normal speed? Nop
 
 Student A could just use a tool that downloads all the files, and converts it into a standard .mp4 file. This way they are able to use a video player with speed control (I recommend my personal favorite; VLC Player for up to 4x speed)
 
-This is that tool. With it you only need to know the passwords to their Professor's websites. It'll save you precious time! You're welcome! And if you find it useful, next time we meet, coffee is on you ;)
+This is that tool. With it you only need to know the passwords to their Professor's websites. It'll save you precious time! You're welcome ;)
+
 # Installation 
 ## Windows
 
