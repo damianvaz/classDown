@@ -24,8 +24,8 @@ The easiest way to install this tool is by using Conda
 
 Once you install it, you should be able to launch a Anaconda poweshell from the Windows menu
 
-    git clone https://github.com/damianvaz/classDown.git`
-    conda env create -f environment.yml`
+    git clone https://github.com/damianvaz/classDown.git
+    conda env create -f environment.yml
 
 Now just run `python classDown.py`
 
