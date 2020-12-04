@@ -81,6 +81,32 @@ or if you only have one version of python installed:
 
 `python classDown.py`
 
+# Pro Tip
+
+You can use this tool to download the videos directly to your Android phone with an app like Termux. VLC has an video player for Android too
+
+[Download Termux from Google play](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
+
+Open Termux and enter `termux-setup-storage` and allow it to access your device storage
+
+Now enter these commands in order:
+
+    cd storage/movies
+    pkg install python
+    pkg install ffmpeg
+    pkg install git
+    git clone https://github.com/damianvaz/classDown.git
+    cd classDown
+    pip install -r requirements.txt
+    python classDown.py
+    
+Every time you want to use the tool, first you have to navigate to the storage/movies directory by typing `cd storage/movies`
+    
+Now you can use VLC player to watch the videos or any other player. I like VLC cause it allows me to watch at up to 4x speed, and it automatically scans the device for video files
+
+[Download VLC from Google play](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=pt_BR&gl=US)
+
+
 # After thoughts
 
 If you run in trouble installing contact me through whatsapp
