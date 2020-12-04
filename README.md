@@ -25,6 +25,7 @@ The easiest way to install this tool is by using Conda
 Once you install it, you should be able to launch a Anaconda poweshell from the Windows menu
 
     git clone https://github.com/damianvaz/classDown.git
+    cd classDown
     conda env create -f environment.yml
 
 Now just run `python classDown.py`
@@ -50,6 +51,7 @@ Run the installer:
 `bash Miniconda3-latest-Linux-x86_64.sh`
 
 Now let's make the new environment for the tool with
+`cd classDown`
 `conda env create -f environment.yml`
 
 and run the script ´python classDown.py´
@@ -61,7 +63,7 @@ If you don't have python 3.8 or higher
 `sudo apt install python3.8`
 
 If you already have python 3.8 or higher:
-
+`cd classDown`
 `pip install -r requirements.txt`
 
 now just run the script:
