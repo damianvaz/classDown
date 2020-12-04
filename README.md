@@ -5,7 +5,7 @@ With the 2020 global pandemic we now have to take our classes online, which depe
 
 Imagine this scenario: Student A misses a class, which is unfortunate, but thankfully they aren't out of luck. They head to their professor's website where, fortunately, their professor uploaded a video of the lecture. Unfortunate for them though, they are forced to watch it in browser. They also can't download the video and are forced to watch it at 1x speed. This makes it tough for someone who might be trying to find the couple of slides they missed without watching the entire lecture back.
 
-So what's student A to do? Suffer through the endless class at normal speed? Nope! The class is already recorded, so there's no reason for that other *~than professor doesn't feel like uploading standard video files~* (Or maybe he doesn't want to put a strain on his server, making people have to Download the entire video, and maybe just watch a couple minutes of it. If that's the case, I sure made the server work a lot during the writing of this tool. Whooooops ¯\(ツ)/¯)
+So what's student A to do? Suffer through the endless class at normal speed? Nope! The class is already recorded, so there's no reason for that other *~than professor doesn't feel like uploading standard video files~* (Or maybe he doesn't want to put a strain on his server, making people have to Download the entire video, and maybe just watch a couple minutes of it. If that's the case, I sure made the server work a lot during the writing of this tool. Whooooops ¯\\(ツ)/¯)
 
 Student A could just use a tool that downloads all the files, and converts it into a standard .mp4 file. This way they are able to use a video player with speed control (I recommend my personal favorite; VLC Player for up to 4x speed)
 
