@@ -18,14 +18,13 @@ The easiest way to install this tool is by using Conda
 
 [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-Once you install it, you should be able to launch a Anaconda poweshell from the Windows menu
+Once you install it, you should be able to launch a Anaconda poweshell from the Windows menu. Enter on the terminal these commands in order
 
     git clone https://github.com/damianvaz/classDown.git
     cd classDown
     conda env create -f environment.yml
     conda activate classDown
-
-Now just run `python classDown.py`
+    python classDown.py
 
 ## Linux
 
@@ -66,13 +65,21 @@ If you don't have python 3.8 or higher
 
 If you already have python 3.8 or higher:
 
+Now install ffmpeg:
+
+`sudo apt install ffmpeg`
+
 `cd classDown`
 
 `pip install -r requirements.txt`
 
 now just run the script:
 
-`python3 classDown`
+`python3 classDown.py`
+-
+or if you only have one version of python installed:
+
+`python classDown.py`
 
 # After thoughts
 
