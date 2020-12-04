@@ -27,6 +27,7 @@ Once you install it, you should be able to launch a Anaconda poweshell from the 
     git clone https://github.com/damianvaz/classDown.git
     cd classDown
     conda env create -f environment.yml
+    conda activate classDown
 
 Now just run `python classDown.py`
 
