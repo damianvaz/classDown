@@ -53,7 +53,9 @@ Now run these commands in order
     conda activate classDown
 
 
-and run the script ´python classDown.py´
+and run the script 
+
+`python classDown.py`
 
 #### Python pip install route
 
@@ -62,7 +64,9 @@ If you don't have python 3.8 or higher
 `sudo apt install python3.8`
 
 If you already have python 3.8 or higher:
+
 `cd classDown`
+
 `pip install -r requirements.txt`
 
 now just run the script:
