@@ -7,7 +7,7 @@ But imagine this scenario: Student A misses class, and so he goes to the Profess
 There he manages to watch the class in a browser, however he can't download it, and even worse he has to watch it at 1x speed as the professor PAINFULLY and slowly reads from a slide, that he may or may not, have wrote it.
 
 So what's student A to do? Suffer through the endless class at normal speed? Nope! 
-The class is already recorded, so there's no reason for that other than *~professor doesn't feel like uploading standard video files~* (Or maybe he doesn't want to put a strain on his server, making people have to Download the entire video, and maybe just watch a couple minutes of it. If that's the case, I sure made the server work a lot during the writing of this tool. Whooooops ¯\_(ツ)_/¯) 
+The class is already recorded, so there's no reason for that other than *~professor doesn't feel like uploading standard video files~* (Or maybe he doesn't want to put a strain on his server, making people have to Download the entire video, and maybe just watch a couple minutes of it. If that's the case, I sure made the server work a lot during the writing of this tool. Whooooops ¯\\_(ツ)_/¯) 
 
 So student A, creates a tool that downloads all the files, and converts it into a standard .mp4 file, that he can watch it in a video player with control speed (VLC player is super cool!), so he manages to watch it all up to 4x faster!
 
